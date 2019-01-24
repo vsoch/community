@@ -139,6 +139,8 @@ substitution accordingly. What does this verison coincide with?
 It should match a [release tag](https://github.com/sylabs/singularity/releases) on the [sylabs/singularity](https://github.com/sylabs/singularity) repository.
 
 
+**stopped here, dinnertime**
+
 ### Step 2: Build a Singularity container
 
 Singularity uses a [Singularity Definition File](https://github.com/sylabs/singularity-userdocs/blob/master/definition_files.rst) as a
